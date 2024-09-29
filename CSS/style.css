@@ -24,7 +24,42 @@ ul.nav a:hover {
 
 h1{
     text-align: center;
+    font-size: 37px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.resources{
-    
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.polaroid {
+    text-align: center;
+    width: 47%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 20px;
+    display:inline-block;
+}
+
+div.mypolaroid {
+    text-align: center;
+    width: 47%;
+    margin: 20px;
+    display:inline-block;
+    padding-left: 350px;
+    padding-top: 10px;
+}
+ 
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+    display:inline-block
+}
+
+div.resources {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+div.resources img{
+    padding-left: 10px;
 }
